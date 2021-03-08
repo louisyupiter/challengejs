@@ -2,6 +2,7 @@
 
 > RULE:
 - Tanpa Built-in Function
+- Boleh pakai push(), join(), dll yang Ecmascript 1
 - Batas Tanggal akhir pengumpulan: Rabu, 9 Maret 2021 (00:00)
 - Dikumpulkan di Drive Folder: Assignment > di tiap folder nama kalian > didalemnya buat buat Folder ChallengeW2 > masukan file js nya.
 
